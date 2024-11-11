@@ -1,0 +1,6 @@
+@APIBurger_HostAddress = http://localhost:5244
+
+GET {{APIBurger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
